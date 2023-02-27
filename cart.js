@@ -91,8 +91,8 @@ const calcFinalPrice = (cartTotal, couponValue, tax) =>
 */
 
 const customer = {
-  firstName: `Sei`,
-  lastName: `Gahn`,
+  firstName: `ibrahim`,
+  lastName: `ahmed`,
   age: 21,
   totalOrders: 5,
 };
